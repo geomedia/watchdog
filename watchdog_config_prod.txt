@@ -1,0 +1,16 @@
+#DO NOT CHANGE THE STRUCTURE OF THIS FILE! ONLY MODIFY UNCOMMENTED LINES
+#Type
+PROD
+#To
+sysadmin@huma-num.fr
+#From
+sysadmin@huma-num.fr
+#DB Host
+134.158.33.112
+#DB Name
+geomedia
+#DB User
+user_geomedia
+#DB Password
+----change--me----
+
